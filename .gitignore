@@ -1,0 +1,5 @@
+/node_modules
+/js
+/vendor
+.env
+aati_bdd_v1 copy.sql

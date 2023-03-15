@@ -1,0 +1,24 @@
+{
+  "name": "surricate",
+  "version": "1.0.0",
+  "description": "Une version démo de l'application est disponible sur  www.surricate.projet-digital.re. Licence propriétaire appartenant à l'AATI",
+  "main": "index.js",
+  "dependencies": {
+    "chart.js": "^3.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christian-marais/surricate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christian-marais/surricate/issues"
+  },
+  "homepage": "https://github.com/christian-marais/surricate#readme",
+  "keywords": []
+}

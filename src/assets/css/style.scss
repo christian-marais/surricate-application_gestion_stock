@@ -1,0 +1,213 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap');
+/* 245*/
+:root{
+    --hue-color:213;
+    --hue-l:32%;
+    --hue-s:100%;
+
+    --first-color:hsl(var(--hue-color), var(--hue-s), calc(0.6 * var(--hue-l)));
+    --first-color-light:hsl(var(--hue-color), var(--hue-s), var(--hue-l));
+    --alt-color:hsl(0, 0%, 100%);
+    --alt-color-dark:hsl(0, 0%, 63%);
+    --res: calc(0.015 * 10vmin);
+    font-size: calc(var(--res) * 16);
+    /*font-size:16px; pour la correction de bug decommenter pour éviter l'autoadptation de l'affichage*/
+}
+.color-primaire{
+    color:var(--first-color);
+}
+.color-primaire-alt{
+    color:var(--first-color-light);
+}
+.color-second{
+    color:var(--alt-color);
+}
+.color-second-alt{
+    color:var(--alt-color-dark);
+}
+
+.bg-primaire{
+    background-color:var(--first-color);
+}
+.bg-primaire-alt{
+    background-color:var(--first-color-light);
+}
+.bg-second{
+    background-color:var(--alt-color);
+}
+.bg-second-alt{
+    background-color:var(--alt-color-dark);
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+    font-family: 'Poppins', sans-serif;
+    scrollbar-width: thin;
+    scrollbar-color: #6969dd #e0e0e0;
+}
+
+body{
+    position:relative;
+    min-height: 100vh;
+    width:100%;
+    overflow:hidden;
+    background-image: url(../../../images/banque/AATI/bg.jpg);
+    background-size: cover;
+    background-position: center;
+    
+
+}
+.login{
+    padding-top:0;
+}
+.login p{
+    font-size:1rem;
+}
+div .logo{
+    width:40%;
+    display:flex;
+    margin:auto;
+    justify-content:center;
+}
+li{
+    list-style:none;
+}
+.button.icone{
+    border:none;
+    font-size:1.5rem;
+}
+.button.icone:hover{
+    background:none;
+    color:var(--first-color);
+    border:none;
+}
+.pagination {
+    margin-top:5rem;
+    display:flex;
+    justify-content:center;
+}
+.pagination ul {
+    display:flex;
+    justify-content:space-between;
+    margin:0 2rem;
+}
+
+.pagination ul li button{
+ width:2rem;
+}
+
+#page404{
+    height:100vh;
+    background-image: url('http://localhost/images/slider/slider_0.jpg');
+    font-weight:bolder;
+}
+
+#page404 h1{
+    font-size:6rem;
+    font-weight:bolder;
+}
+#page404 h2{
+    font-size: 2rem;
+    font-style:italic;
+    font-weight:bolder;
+}
+#page404 .btn{
+    position:fixed;
+    width:12rem;
+    bottom:37%;
+}
+.banniere-contenu {
+    background: rgba(37, 37, 35, 0.563);
+    padding: 20px;
+}
+
+/***********************modal notification css*********************************/
+.modal_notification{
+    all:unset;
+    position:absolute;
+    display:flex;
+    align-items:center;
+    bottom:-90px;
+    right:30px;
+    height:auto;
+    width:250px;
+    padding:10px 25px;
+    box-sizing: border-box;
+    background:var(--first-color);
+    color:var(--alt-color);
+    border-radius: 10px;
+    opacity: 0;
+    transition:transform .5s ease;
+    filter: drop-shadow(0px 10px 4px var(--alt-color-dark));
+    z-index:100;
+}
+
+.modal_notification.active{
+    bottom:90px;
+    transform:translateY(50%);
+    transition-delay: 1s;
+    transition-property: transform,opacity;
+    opacity:1;
+}
+.modal_notification_text{
+    color:green;
+    font-size: 1rem;
+    text-align:center;
+    margin-bottom:0px;
+}
+.modal_notification i{
+    position:absolute;
+    top:10%;
+    right:4%;
+    color:var(--alt-color-dark);
+    font-size:1.5rem;
+}
+body > div.modal_notification.active > form > button{
+    all:unset ;
+    border:none;
+}
+.row{
+    margin-bottom:1rem;
+}
+.center{
+    justify-content:center;
+}
+.cross-button{
+    background:none;
+}
+.warning{
+    color:red;
+}
+
+.search-form{
+    width:100%;
+}
+
+.search-form input{
+    margin-left:0.5rem;
+    background: var(--first-color-light);
+    border-radius: 1.25rem;
+    font-size: 1rem;
+    width: clamp(0px,12rem,100%);
+    height: 2.1875rem;
+    line-height: inherit;
+    text-align: center;
+}
+.search-form i{
+    position:absolute;
+    line-height:inherit ;
+    left:.7rem;
+   
+}
+.search-form i:hover{
+    background:none;
+    color:var(--alt-color-dark);
+}
+
+.offset-limit{
+    width:85px;
+}
+
+
