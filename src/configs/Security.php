@@ -1,6 +1,7 @@
 <?php
 
 namespace Surricate;
+use Surricate\Auth;
 use \Exception;  
     
     abstract class Security{
@@ -259,6 +260,9 @@ use \Exception;
         }
 
         protected function checkUserContenuPermission($nomPage,$permString,$egaliteStrict=false){
+            if(Auth::bypass){
+                return true;
+            }
             $allowedScore=0;
             foreach($permString as $perm){
                 if($this->translatePermStringToValue($perm)>=0){
@@ -287,6 +291,7 @@ use \Exception;
                 }
            }  
             //Security::verifyUriToken(); 
+            
           return $results;
        
         }

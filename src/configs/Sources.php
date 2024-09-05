@@ -59,6 +59,7 @@
             session_start();
             (isset($_SERVER['HTTPS']))?define('HTTPS','https'):define('HTTPS','http');
             define("BASE_URI",HTTPS.'://'.$_SERVER['HTTP_HOST'].substr(ROOT,strlen($_SERVER[ 'DOCUMENT_ROOT' ])));
+            
             define("VERSION",$_ENV['APP_VERSION']);
             define('MEMBER_HOME','stock/utilisations');
         }

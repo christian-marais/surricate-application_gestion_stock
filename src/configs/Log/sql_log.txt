@@ -8273,4 +8273,1954 @@ paramno=0
 name=[0] ""
 is_param=1
 param_type=2
+----------------------------[2024-09-05 08:56:26]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 08:56:26]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 08:56:59]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 08:56:59]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:01:40]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:01:40]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:01:40]  SQL: [47] UPDATE user SET token = ?  WHERE email_user = ?
+Sent SQL: [101] UPDATE user SET token = 'b34a8d728504546f7ca95de4d40d32af148ccc2e'  WHERE email_user = 'test@test.fr'
+Params:  2
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+Key: Position #1:
+paramno=1
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:01:40]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:01:40]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:01:40]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:01:40]  SQL: [38] SELECT * FROM role WHERE code_role = ?
+Sent SQL: [48] SELECT * FROM role WHERE code_role = 'Formateur'
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:01:42]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:01:42]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:01:42]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:01:42]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:01:42]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:01:42]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:01:42]  SQL: [38] SELECT * FROM role WHERE code_role = ?
+Sent SQL: [48] SELECT * FROM role WHERE code_role = 'Formateur'
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:01:44]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:01:44]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:01:44]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:01:44]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:01:44]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:01:44]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:01:44]  SQL: [38] SELECT * FROM role WHERE code_role = ?
+Sent SQL: [48] SELECT * FROM role WHERE code_role = 'Formateur'
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:05:16]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:05:16]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:05:16]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:05:16]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:05:16]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:05:16]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:05:16]  SQL: [38] SELECT * FROM role WHERE code_role = ?
+Sent SQL: [48] SELECT * FROM role WHERE code_role = 'Formateur'
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:06:32]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:06:32]  SQL: [66] SELECT DISTINCT * FROM groupe WHERE id_centre LIKE :currentCentre 
+Sent SQL: [64] SELECT DISTINCT * FROM groupe WHERE id_centre LIKE 'Bras-Panon' 
+Params:  1
+Key: Name: [14] :currentCentre
+paramno=-1
+name=[14] ":currentCentre"
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:06:32]  SQL: [66] SELECT DISTINCT * FROM groupe WHERE id_centre LIKE :currentCentre 
+Sent SQL: [64] SELECT DISTINCT * FROM groupe WHERE id_centre LIKE 'Bras-Panon' 
+Params:  1
+Key: Name: [14] :currentCentre
+paramno=-1
+name=[14] ":currentCentre"
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:06:32]  SQL: [38] SELECT * FROM role WHERE code_role = ?
+Sent SQL: [48] SELECT * FROM role WHERE code_role = 'Formateur'
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:08:32]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:08:32]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:08:32]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:08:32]  SQL: [38] SELECT * FROM role WHERE code_role = ?
+Sent SQL: [48] SELECT * FROM role WHERE code_role = 'Formateur'
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:08:34]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:08:34]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:08:34]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:08:34]  SQL: [38] SELECT * FROM role WHERE code_role = ?
+Sent SQL: [48] SELECT * FROM role WHERE code_role = 'Formateur'
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:09:16]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:09:16]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:09:16]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:09:57]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:09:57]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:09:57]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:11:50]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:11:50]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:11:50]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:11:55]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:11:55]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:11:55]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:12:06]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:12:06]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:12:06]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:12:06]  SQL: [56] SELECT DISTINCT * FROM fournisseur LIMIT :page0, :page1 
+Sent SQL: [47] SELECT DISTINCT * FROM fournisseur LIMIT 0, 10 
+Params:  2
+Key: Name: [6] :page0
+paramno=-1
+name=[6] ":page0"
+is_param=1
+param_type=1
+Key: Name: [6] :page1
+paramno=-1
+name=[6] ":page1"
+is_param=1
+param_type=1
+----------------------------[2024-09-05 09:12:06]  SQL: [56] SELECT DISTINCT * FROM fournisseur LIMIT :page0, :page1 
+Sent SQL: [47] SELECT DISTINCT * FROM fournisseur LIMIT 0, 10 
+Params:  2
+Key: Name: [6] :page0
+paramno=-1
+name=[6] ":page0"
+is_param=1
+param_type=1
+Key: Name: [6] :page1
+paramno=-1
+name=[6] ":page1"
+is_param=1
+param_type=1
+----------------------------[2024-09-05 09:12:32]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:12:32]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:12:32]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:12:32]  SQL: [56] SELECT DISTINCT * FROM fournisseur LIMIT :page0, :page1 
+Sent SQL: [47] SELECT DISTINCT * FROM fournisseur LIMIT 0, 10 
+Params:  2
+Key: Name: [6] :page0
+paramno=-1
+name=[6] ":page0"
+is_param=1
+param_type=1
+Key: Name: [6] :page1
+paramno=-1
+name=[6] ":page1"
+is_param=1
+param_type=1
+----------------------------[2024-09-05 09:12:32]  SQL: [56] SELECT DISTINCT * FROM fournisseur LIMIT :page0, :page1 
+Sent SQL: [47] SELECT DISTINCT * FROM fournisseur LIMIT 0, 10 
+Params:  2
+Key: Name: [6] :page0
+paramno=-1
+name=[6] ":page0"
+is_param=1
+param_type=1
+Key: Name: [6] :page1
+paramno=-1
+name=[6] ":page1"
+is_param=1
+param_type=1
+----------------------------[2024-09-05 09:13:14]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:13:14]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:13:14]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:13:18]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:13:18]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:13:18]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:13:18]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:13:18]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:13:18]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:13:27]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:13:27]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:13:27]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:13:27]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:13:27]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:13:27]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:13:27]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:13:27]  SQL: [29] SELECT DISTINCT * FROM cursus
+Params:  0
+----------------------------[2024-09-05 09:13:27]  SQL: [29] SELECT DISTINCT * FROM cursus
+Params:  0
+----------------------------[2024-09-05 09:13:27]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:13:27]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:13:27]  SQL: [49] SELECT DISTINCT * FROM user LIMIT :page0, :page1 
+Sent SQL: [40] SELECT DISTINCT * FROM user LIMIT 0, 10 
+Params:  2
+Key: Name: [6] :page0
+paramno=-1
+name=[6] ":page0"
+is_param=1
+param_type=1
+Key: Name: [6] :page1
+paramno=-1
+name=[6] ":page1"
+is_param=1
+param_type=1
+----------------------------[2024-09-05 09:13:27]  SQL: [49] SELECT DISTINCT * FROM user LIMIT :page0, :page1 
+Sent SQL: [40] SELECT DISTINCT * FROM user LIMIT 0, 10 
+Params:  2
+Key: Name: [6] :page0
+paramno=-1
+name=[6] ":page0"
+is_param=1
+param_type=1
+Key: Name: [6] :page1
+paramno=-1
+name=[6] ":page1"
+is_param=1
+param_type=1
+----------------------------[2024-09-05 09:13:32]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:13:32]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:13:32]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:13:32]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:13:32]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:13:32]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:13:32]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:13:32]  SQL: [29] SELECT DISTINCT * FROM cursus
+Params:  0
+----------------------------[2024-09-05 09:13:32]  SQL: [29] SELECT DISTINCT * FROM cursus
+Params:  0
+----------------------------[2024-09-05 09:13:32]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:13:32]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:13:32]  SQL: [49] SELECT DISTINCT * FROM user LIMIT :page0, :page1 
+Sent SQL: [40] SELECT DISTINCT * FROM user LIMIT 0, 10 
+Params:  2
+Key: Name: [6] :page0
+paramno=-1
+name=[6] ":page0"
+is_param=1
+param_type=1
+Key: Name: [6] :page1
+paramno=-1
+name=[6] ":page1"
+is_param=1
+param_type=1
+----------------------------[2024-09-05 09:13:32]  SQL: [49] SELECT DISTINCT * FROM user LIMIT :page0, :page1 
+Sent SQL: [40] SELECT DISTINCT * FROM user LIMIT 0, 10 
+Params:  2
+Key: Name: [6] :page0
+paramno=-1
+name=[6] ":page0"
+is_param=1
+param_type=1
+Key: Name: [6] :page1
+paramno=-1
+name=[6] ":page1"
+is_param=1
+param_type=1
+----------------------------[2024-09-05 09:13:46]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:13:46]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:13:46]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:13:46]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:13:46]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:13:46]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:13:46]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:13:46]  SQL: [29] SELECT DISTINCT * FROM cursus
+Params:  0
+----------------------------[2024-09-05 09:13:46]  SQL: [29] SELECT DISTINCT * FROM cursus
+Params:  0
+----------------------------[2024-09-05 09:13:46]  SQL: [187] UPDATE user SET nom_user = ? , prenom_user = ? , fonction_user = ? , email_user = ? , password_user = AES_ENCRYPT (?,"test"), id_groupe = ? , active = ? , id_cursus = ?  WHERE id_user = ?
+Sent SQL: [231] UPDATE user SET nom_user = 'test' , prenom_user = 'test' , fonction_user = NULL , email_user = 'test@test.fr' , password_user = AES_ENCRYPT ('test',"test"), id_groupe = 'ADMIN' , active = '1' , id_cursus = NULL  WHERE id_user = '8'
+Params:  9
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+Key: Position #1:
+paramno=1
+name=[0] ""
+is_param=1
+param_type=2
+Key: Position #2:
+paramno=2
+name=[0] ""
+is_param=1
+param_type=2
+Key: Position #3:
+paramno=3
+name=[0] ""
+is_param=1
+param_type=2
+Key: Position #4:
+paramno=4
+name=[0] ""
+is_param=1
+param_type=2
+Key: Position #5:
+paramno=5
+name=[0] ""
+is_param=1
+param_type=2
+Key: Position #6:
+paramno=6
+name=[0] ""
+is_param=1
+param_type=2
+Key: Position #7:
+paramno=7
+name=[0] ""
+is_param=1
+param_type=2
+Key: Position #8:
+paramno=8
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:13:46]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:13:46]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:13:46]  SQL: [49] SELECT DISTINCT * FROM user LIMIT :page0, :page1 
+Sent SQL: [40] SELECT DISTINCT * FROM user LIMIT 0, 10 
+Params:  2
+Key: Name: [6] :page0
+paramno=-1
+name=[6] ":page0"
+is_param=1
+param_type=1
+Key: Name: [6] :page1
+paramno=-1
+name=[6] ":page1"
+is_param=1
+param_type=1
+----------------------------[2024-09-05 09:13:46]  SQL: [49] SELECT DISTINCT * FROM user LIMIT :page0, :page1 
+Sent SQL: [40] SELECT DISTINCT * FROM user LIMIT 0, 10 
+Params:  2
+Key: Name: [6] :page0
+paramno=-1
+name=[6] ":page0"
+is_param=1
+param_type=1
+Key: Name: [6] :page1
+paramno=-1
+name=[6] ":page1"
+is_param=1
+param_type=1
+----------------------------[2024-09-05 09:13:59]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:13:59]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:13:59]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:13:59]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:13:59]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:13:59]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:13:59]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:13:59]  SQL: [29] SELECT DISTINCT * FROM cursus
+Params:  0
+----------------------------[2024-09-05 09:13:59]  SQL: [29] SELECT DISTINCT * FROM cursus
+Params:  0
+----------------------------[2024-09-05 09:13:59]  SQL: [187] UPDATE user SET nom_user = ? , prenom_user = ? , fonction_user = ? , email_user = ? , password_user = AES_ENCRYPT (?,"test"), id_groupe = ? , active = ? , id_cursus = ?  WHERE id_user = ?
+Sent SQL: [231] UPDATE user SET nom_user = 'test' , prenom_user = 'test' , fonction_user = NULL , email_user = 'test@test.fr' , password_user = AES_ENCRYPT ('test',"test"), id_groupe = 'ADMIN' , active = '1' , id_cursus = NULL  WHERE id_user = '8'
+Params:  9
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+Key: Position #1:
+paramno=1
+name=[0] ""
+is_param=1
+param_type=2
+Key: Position #2:
+paramno=2
+name=[0] ""
+is_param=1
+param_type=2
+Key: Position #3:
+paramno=3
+name=[0] ""
+is_param=1
+param_type=2
+Key: Position #4:
+paramno=4
+name=[0] ""
+is_param=1
+param_type=2
+Key: Position #5:
+paramno=5
+name=[0] ""
+is_param=1
+param_type=2
+Key: Position #6:
+paramno=6
+name=[0] ""
+is_param=1
+param_type=2
+Key: Position #7:
+paramno=7
+name=[0] ""
+is_param=1
+param_type=2
+Key: Position #8:
+paramno=8
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:13:59]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:13:59]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:13:59]  SQL: [49] SELECT DISTINCT * FROM user LIMIT :page0, :page1 
+Sent SQL: [40] SELECT DISTINCT * FROM user LIMIT 0, 10 
+Params:  2
+Key: Name: [6] :page0
+paramno=-1
+name=[6] ":page0"
+is_param=1
+param_type=1
+Key: Name: [6] :page1
+paramno=-1
+name=[6] ":page1"
+is_param=1
+param_type=1
+----------------------------[2024-09-05 09:13:59]  SQL: [49] SELECT DISTINCT * FROM user LIMIT :page0, :page1 
+Sent SQL: [40] SELECT DISTINCT * FROM user LIMIT 0, 10 
+Params:  2
+Key: Name: [6] :page0
+paramno=-1
+name=[6] ":page0"
+is_param=1
+param_type=1
+Key: Name: [6] :page1
+paramno=-1
+name=[6] ":page1"
+is_param=1
+param_type=1
+----------------------------[2024-09-05 09:17:20]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:17:20]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:17:20]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:17:20]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:17:20]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:17:34]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:17:34]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:17:34]  SQL: [47] UPDATE user SET token = ?  WHERE email_user = ?
+Sent SQL: [101] UPDATE user SET token = 'bcd9f9887961fb6f5b9bf03cebcf71555635961a'  WHERE email_user = 'test@test.fr'
+Params:  2
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+Key: Position #1:
+paramno=1
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:17:34]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:17:34]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:17:34]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:17:34]  SQL: [38] SELECT * FROM role WHERE code_role = ?
+Sent SQL: [44] SELECT * FROM role WHERE code_role = 'admin'
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:17:46]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:17:46]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:17:46]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:17:46]  SQL: [38] SELECT * FROM role WHERE code_role = ?
+Sent SQL: [44] SELECT * FROM role WHERE code_role = 'admin'
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:17:49]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:17:49]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:17:49]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:17:49]  SQL: [38] SELECT * FROM role WHERE code_role = ?
+Sent SQL: [44] SELECT * FROM role WHERE code_role = 'admin'
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:17:56]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:17:56]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:17:56]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:17:56]  SQL: [38] SELECT * FROM role WHERE code_role = ?
+Sent SQL: [44] SELECT * FROM role WHERE code_role = 'admin'
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:17:56]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:17:56]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:17:56]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:17:56]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:17:56]  SQL: [29] SELECT DISTINCT * FROM cursus
+Params:  0
+----------------------------[2024-09-05 09:17:56]  SQL: [29] SELECT DISTINCT * FROM cursus
+Params:  0
+----------------------------[2024-09-05 09:17:56]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:17:56]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:17:56]  SQL: [49] SELECT DISTINCT * FROM user LIMIT :page0, :page1 
+Sent SQL: [40] SELECT DISTINCT * FROM user LIMIT 0, 10 
+Params:  2
+Key: Name: [6] :page0
+paramno=-1
+name=[6] ":page0"
+is_param=1
+param_type=1
+Key: Name: [6] :page1
+paramno=-1
+name=[6] ":page1"
+is_param=1
+param_type=1
+----------------------------[2024-09-05 09:17:56]  SQL: [49] SELECT DISTINCT * FROM user LIMIT :page0, :page1 
+Sent SQL: [40] SELECT DISTINCT * FROM user LIMIT 0, 10 
+Params:  2
+Key: Name: [6] :page0
+paramno=-1
+name=[6] ":page0"
+is_param=1
+param_type=1
+Key: Name: [6] :page1
+paramno=-1
+name=[6] ":page1"
+is_param=1
+param_type=1
+----------------------------[2024-09-05 09:18:05]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:18:05]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:18:05]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:18:05]  SQL: [38] SELECT * FROM role WHERE code_role = ?
+Sent SQL: [44] SELECT * FROM role WHERE code_role = 'admin'
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:18:05]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:18:05]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:18:05]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:18:05]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:18:05]  SQL: [29] SELECT DISTINCT * FROM cursus
+Params:  0
+----------------------------[2024-09-05 09:18:05]  SQL: [29] SELECT DISTINCT * FROM cursus
+Params:  0
+----------------------------[2024-09-05 09:18:05]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:18:05]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:18:05]  SQL: [49] SELECT DISTINCT * FROM user LIMIT :page0, :page1 
+Sent SQL: [40] SELECT DISTINCT * FROM user LIMIT 0, 10 
+Params:  2
+Key: Name: [6] :page0
+paramno=-1
+name=[6] ":page0"
+is_param=1
+param_type=1
+Key: Name: [6] :page1
+paramno=-1
+name=[6] ":page1"
+is_param=1
+param_type=1
+----------------------------[2024-09-05 09:18:05]  SQL: [49] SELECT DISTINCT * FROM user LIMIT :page0, :page1 
+Sent SQL: [40] SELECT DISTINCT * FROM user LIMIT 0, 10 
+Params:  2
+Key: Name: [6] :page0
+paramno=-1
+name=[6] ":page0"
+is_param=1
+param_type=1
+Key: Name: [6] :page1
+paramno=-1
+name=[6] ":page1"
+is_param=1
+param_type=1
+----------------------------[2024-09-05 09:19:54]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:19:54]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:19:54]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:19:54]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:19:54]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:20:02]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:20:02]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:20:02]  SQL: [47] UPDATE user SET token = ?  WHERE email_user = ?
+Sent SQL: [101] UPDATE user SET token = '1223c81b778b1dba61c3a08a1a4fc24542e68779'  WHERE email_user = 'test@test.fr'
+Params:  2
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+Key: Position #1:
+paramno=1
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:20:02]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:20:02]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:20:02]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:20:02]  SQL: [38] SELECT * FROM role WHERE code_role = ?
+Sent SQL: [44] SELECT * FROM role WHERE code_role = 'admin'
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:20:09]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:20:09]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:20:09]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:20:09]  SQL: [38] SELECT * FROM role WHERE code_role = ?
+Sent SQL: [44] SELECT * FROM role WHERE code_role = 'admin'
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:25:47]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:25:47]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:25:47]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:25:47]  SQL: [38] SELECT * FROM role WHERE code_role = ?
+Sent SQL: [44] SELECT * FROM role WHERE code_role = 'admin'
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:25:56]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:25:56]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:25:56]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:27:41]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:27:41]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:27:41]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:27:42]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:27:42]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:27:42]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:27:42]  SQL: [38] SELECT * FROM role WHERE code_role = ?
+Sent SQL: [44] SELECT * FROM role WHERE code_role = 'admin'
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:27:45]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:27:45]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:27:45]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:27:45]  SQL: [38] SELECT * FROM role WHERE code_role = ?
+Sent SQL: [44] SELECT * FROM role WHERE code_role = 'admin'
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:27:46]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:27:46]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:27:46]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:27:46]  SQL: [38] SELECT * FROM role WHERE code_role = ?
+Sent SQL: [44] SELECT * FROM role WHERE code_role = 'admin'
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:27:46]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:27:46]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:27:46]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:27:46]  SQL: [38] SELECT * FROM role WHERE code_role = ?
+Sent SQL: [44] SELECT * FROM role WHERE code_role = 'admin'
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:27:52]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:27:52]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:27:52]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:27:52]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:27:52]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:27:58]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:27:58]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:27:58]  SQL: [47] UPDATE user SET token = ?  WHERE email_user = ?
+Sent SQL: [101] UPDATE user SET token = '7902cc653d06aacec882f8fcb366e28fd580191c'  WHERE email_user = 'test@test.fr'
+Params:  2
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+Key: Position #1:
+paramno=1
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:27:58]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:27:58]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:27:58]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:27:58]  SQL: [38] SELECT * FROM role WHERE code_role = ?
+Sent SQL: [44] SELECT * FROM role WHERE code_role = 'admin'
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:30:57]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:30:57]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:30:57]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:30:57]  SQL: [38] SELECT * FROM role WHERE code_role = ?
+Sent SQL: [44] SELECT * FROM role WHERE code_role = 'admin'
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:30:57]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:30:57]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:30:57]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:30:57]  SQL: [38] SELECT * FROM role WHERE code_role = ?
+Sent SQL: [44] SELECT * FROM role WHERE code_role = 'admin'
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:30:57]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:30:57]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:30:58]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:30:58]  SQL: [38] SELECT * FROM role WHERE code_role = ?
+Sent SQL: [44] SELECT * FROM role WHERE code_role = 'admin'
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:31:06]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:31:06]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:31:06]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:31:06]  SQL: [38] SELECT * FROM role WHERE code_role = ?
+Sent SQL: [44] SELECT * FROM role WHERE code_role = 'admin'
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:31:09]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:31:09]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:31:09]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:31:09]  SQL: [38] SELECT * FROM role WHERE code_role = ?
+Sent SQL: [44] SELECT * FROM role WHERE code_role = 'admin'
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:31:09]  SQL: [56] SELECT DISTINCT * FROM fournisseur LIMIT :page0, :page1 
+Sent SQL: [47] SELECT DISTINCT * FROM fournisseur LIMIT 0, 10 
+Params:  2
+Key: Name: [6] :page0
+paramno=-1
+name=[6] ":page0"
+is_param=1
+param_type=1
+Key: Name: [6] :page1
+paramno=-1
+name=[6] ":page1"
+is_param=1
+param_type=1
+----------------------------[2024-09-05 09:31:09]  SQL: [56] SELECT DISTINCT * FROM fournisseur LIMIT :page0, :page1 
+Sent SQL: [47] SELECT DISTINCT * FROM fournisseur LIMIT 0, 10 
+Params:  2
+Key: Name: [6] :page0
+paramno=-1
+name=[6] ":page0"
+is_param=1
+param_type=1
+Key: Name: [6] :page1
+paramno=-1
+name=[6] ":page1"
+is_param=1
+param_type=1
+----------------------------[2024-09-05 09:31:16]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:31:16]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:31:16]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:31:16]  SQL: [38] SELECT * FROM role WHERE code_role = ?
+Sent SQL: [44] SELECT * FROM role WHERE code_role = 'admin'
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:31:16]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:31:16]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:31:16]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:31:16]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:31:16]  SQL: [29] SELECT DISTINCT * FROM cursus
+Params:  0
+----------------------------[2024-09-05 09:31:16]  SQL: [29] SELECT DISTINCT * FROM cursus
+Params:  0
+----------------------------[2024-09-05 09:31:16]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:31:16]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:31:16]  SQL: [49] SELECT DISTINCT * FROM user LIMIT :page0, :page1 
+Sent SQL: [40] SELECT DISTINCT * FROM user LIMIT 0, 10 
+Params:  2
+Key: Name: [6] :page0
+paramno=-1
+name=[6] ":page0"
+is_param=1
+param_type=1
+Key: Name: [6] :page1
+paramno=-1
+name=[6] ":page1"
+is_param=1
+param_type=1
+----------------------------[2024-09-05 09:31:16]  SQL: [49] SELECT DISTINCT * FROM user LIMIT :page0, :page1 
+Sent SQL: [40] SELECT DISTINCT * FROM user LIMIT 0, 10 
+Params:  2
+Key: Name: [6] :page0
+paramno=-1
+name=[6] ":page0"
+is_param=1
+param_type=1
+Key: Name: [6] :page1
+paramno=-1
+name=[6] ":page1"
+is_param=1
+param_type=1
+----------------------------[2024-09-05 09:31:24]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:31:24]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:31:24]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:31:24]  SQL: [38] SELECT * FROM role WHERE code_role = ?
+Sent SQL: [44] SELECT * FROM role WHERE code_role = 'admin'
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:32:22]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:32:22]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:32:22]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:32:22]  SQL: [38] SELECT * FROM role WHERE code_role = ?
+Sent SQL: [44] SELECT * FROM role WHERE code_role = 'admin'
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:32:33]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:32:33]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:32:33]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:32:33]  SQL: [38] SELECT * FROM role WHERE code_role = ?
+Sent SQL: [44] SELECT * FROM role WHERE code_role = 'admin'
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:32:36]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:32:36]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:32:36]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:32:36]  SQL: [38] SELECT * FROM role WHERE code_role = ?
+Sent SQL: [44] SELECT * FROM role WHERE code_role = 'admin'
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:32:36]  SQL: [42] SELECT DISTINCT * FROM bordereau_reception
+Params:  0
+----------------------------[2024-09-05 09:32:36]  SQL: [42] SELECT DISTINCT * FROM bordereau_reception
+Params:  0
+----------------------------[2024-09-05 09:32:36]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:32:36]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:32:36]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:32:43]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:32:44]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:32:44]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:32:44]  SQL: [38] SELECT * FROM role WHERE code_role = ?
+Sent SQL: [44] SELECT * FROM role WHERE code_role = 'admin'
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:32:44]  SQL: [42] SELECT DISTINCT * FROM bordereau_reception
+Params:  0
+----------------------------[2024-09-05 09:32:44]  SQL: [42] SELECT DISTINCT * FROM bordereau_reception
+Params:  0
+----------------------------[2024-09-05 09:32:44]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:32:44]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:32:44]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:32:46]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:32:46]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:32:46]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:32:46]  SQL: [38] SELECT * FROM role WHERE code_role = ?
+Sent SQL: [44] SELECT * FROM role WHERE code_role = 'admin'
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:32:46]  SQL: [42] SELECT DISTINCT * FROM bordereau_reception
+Params:  0
+----------------------------[2024-09-05 09:32:46]  SQL: [42] SELECT DISTINCT * FROM bordereau_reception
+Params:  0
+----------------------------[2024-09-05 09:32:46]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:32:46]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:32:46]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:32:54]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:32:54]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:32:55]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:32:55]  SQL: [38] SELECT * FROM role WHERE code_role = ?
+Sent SQL: [44] SELECT * FROM role WHERE code_role = 'admin'
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:32:55]  SQL: [38] SELECT * FROM role WHERE code_role = ?
+Sent SQL: [39] SELECT * FROM role WHERE code_role = ''
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:32:55]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:32:55]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:32:55]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:32:55]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:32:55]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:32:55]  SQL: [27] SELECT DISTINCT * FROM role
+Params:  0
+----------------------------[2024-09-05 09:32:55]  SQL: [27] SELECT DISTINCT * FROM role
+Params:  0
+----------------------------[2024-09-05 09:32:55]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:32:55]  SQL: [49] SELECT DISTINCT * FROM role LIMIT :page0, :page1 
+Sent SQL: [40] SELECT DISTINCT * FROM role LIMIT 0, 10 
+Params:  2
+Key: Name: [6] :page0
+paramno=-1
+name=[6] ":page0"
+is_param=1
+param_type=1
+Key: Name: [6] :page1
+paramno=-1
+name=[6] ":page1"
+is_param=1
+param_type=1
+----------------------------[2024-09-05 09:32:55]  SQL: [49] SELECT DISTINCT * FROM role LIMIT :page0, :page1 
+Sent SQL: [40] SELECT DISTINCT * FROM role LIMIT 0, 10 
+Params:  2
+Key: Name: [6] :page0
+paramno=-1
+name=[6] ":page0"
+is_param=1
+param_type=1
+Key: Name: [6] :page1
+paramno=-1
+name=[6] ":page1"
+is_param=1
+param_type=1
+----------------------------[2024-09-05 09:33:00]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:33:00]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:33:00]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:33:00]  SQL: [38] SELECT * FROM role WHERE code_role = ?
+Sent SQL: [44] SELECT * FROM role WHERE code_role = 'admin'
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:33:00]  SQL: [38] SELECT * FROM role WHERE code_role = ?
+Sent SQL: [44] SELECT * FROM role WHERE code_role = 'admin'
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:33:00]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:33:01]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:33:01]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:33:01]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:33:01]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:33:01]  SQL: [27] SELECT DISTINCT * FROM role
+Params:  0
+----------------------------[2024-09-05 09:33:01]  SQL: [27] SELECT DISTINCT * FROM role
+Params:  0
+----------------------------[2024-09-05 09:33:01]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:33:01]  SQL: [49] SELECT DISTINCT * FROM role LIMIT :page0, :page1 
+Sent SQL: [40] SELECT DISTINCT * FROM role LIMIT 0, 10 
+Params:  2
+Key: Name: [6] :page0
+paramno=-1
+name=[6] ":page0"
+is_param=1
+param_type=1
+Key: Name: [6] :page1
+paramno=-1
+name=[6] ":page1"
+is_param=1
+param_type=1
+----------------------------[2024-09-05 09:33:01]  SQL: [49] SELECT DISTINCT * FROM role LIMIT :page0, :page1 
+Sent SQL: [40] SELECT DISTINCT * FROM role LIMIT 0, 10 
+Params:  2
+Key: Name: [6] :page0
+paramno=-1
+name=[6] ":page0"
+is_param=1
+param_type=1
+Key: Name: [6] :page1
+paramno=-1
+name=[6] ":page1"
+is_param=1
+param_type=1
+----------------------------[2024-09-05 09:34:49]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:34:49]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:34:49]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:34:49]  SQL: [38] SELECT * FROM role WHERE code_role = ?
+Sent SQL: [44] SELECT * FROM role WHERE code_role = 'admin'
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:34:49]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:34:49]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:34:49]  SQL: [29] SELECT DISTINCT * FROM groupe
+Params:  0
+----------------------------[2024-09-05 09:34:49]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:34:49]  SQL: [29] SELECT DISTINCT * FROM cursus
+Params:  0
+----------------------------[2024-09-05 09:34:49]  SQL: [29] SELECT DISTINCT * FROM cursus
+Params:  0
+----------------------------[2024-09-05 09:34:50]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:34:50]  SQL: [18] call get_centre(?)
+Sent SQL: [20] call get_centre('8')
+Params:  1
+Key: Position #0:
+paramno=0
+name=[0] ""
+is_param=1
+param_type=2
+----------------------------[2024-09-05 09:34:50]  SQL: [49] SELECT DISTINCT * FROM user LIMIT :page0, :page1 
+Sent SQL: [40] SELECT DISTINCT * FROM user LIMIT 0, 10 
+Params:  2
+Key: Name: [6] :page0
+paramno=-1
+name=[6] ":page0"
+is_param=1
+param_type=1
+Key: Name: [6] :page1
+paramno=-1
+name=[6] ":page1"
+is_param=1
+param_type=1
+----------------------------[2024-09-05 09:34:50]  SQL: [49] SELECT DISTINCT * FROM user LIMIT :page0, :page1 
+Sent SQL: [40] SELECT DISTINCT * FROM user LIMIT 0, 10 
+Params:  2
+Key: Name: [6] :page0
+paramno=-1
+name=[6] ":page0"
+is_param=1
+param_type=1
+Key: Name: [6] :page1
+paramno=-1
+name=[6] ":page1"
+is_param=1
+param_type=1
 ----------------------------

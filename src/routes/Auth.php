@@ -3,7 +3,7 @@
 
 class Auth extends Controller{//classe utilisée pour la gestion du login et logout
     private const BASIC_MEMBER='Admin';// formateurs role par défaut. Les roles doivent avoir des themes qui sont les sous dossier de snippets
-    
+    public const bypass = false;
 /**
      * (M) Méthode qui procède au login de l'utilisateur
      * (O) rien
@@ -17,8 +17,13 @@ class Auth extends Controller{//classe utilisée pour la gestion du login et log
             $password =($_POST['password_user']);// si oui on récupère le mot de passe
             $mail=($_POST['mail_user']);// le mal 
             
-            if($this->isAllowedUser($mail,$password)){// on vérifie si il est autorisé à se connecter
-                $this->setSession($mail);// ses variables de session
+            if($this->isAllowedUser($mail,$password) ||self::bypass){// on vérifie si il est autorisé à se connecter
+                
+                if(self::bypass){
+                    $this->setSession("test@test.fr");
+                }else{
+                    $this->setSession($mail);// ses variables de session
+                }
                 $this->message('Félicitations! Vous êtes connecté!',__FUNCTION__); // on lui envoie un message de succès
                 $this->redirection('admin');// on le redirige vers l'accueil
             }else{// si pas autorisé 

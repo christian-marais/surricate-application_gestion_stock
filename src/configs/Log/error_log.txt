@@ -1,37 +1,1224 @@
-[15-Mar-2023 04:08:45 UTC] PHP Warning:  Undefined array key "message" in D:\AFPAR\Surricate\src\assets\snippets\blank\modal.php on line 2
-[15-Mar-2023 04:08:45 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in D:\AFPAR\Surricate\src\assets\snippets\blank\modal.php on line 2
-[15-Mar-2023 04:09:17 UTC] PHP Warning:  Undefined array key "message" in D:\AFPAR\Surricate\src\assets\snippets\blank\modal.php on line 2
-[15-Mar-2023 04:09:17 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in D:\AFPAR\Surricate\src\assets\snippets\blank\modal.php on line 2
-[15-Mar-2023 04:09:56 UTC] PHP Warning:  Undefined array key "message" in D:\AFPAR\Surricate\src\assets\snippets\blank\modal.php on line 2
-[15-Mar-2023 04:09:56 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in D:\AFPAR\Surricate\src\assets\snippets\blank\modal.php on line 2
-[15-Mar-2023 04:13:22 UTC] PHP Warning:  Undefined property: Surricate\API::$Client in D:\AFPAR\Surricate\src\routes\Api.php on line 18
-[15-Mar-2023 04:13:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getAllArticles() on null in D:\AFPAR\Surricate\src\routes\Api.php:18
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:27:57 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:27:58 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:27:58 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:27:58 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:27:58 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:27:58 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:27:58 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:27:58 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:27:58 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:28:28 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:29:28 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:29:28 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:29:28 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:29:28 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:29:28 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:29:28 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:29:28 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:29:28 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:29:28 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:29:28 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:29:28 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:29:28 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:29:28 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:29:28 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:29:28 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:29:28 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:29:29 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:29:29 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:29:29 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:29:29 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:29:29 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:29:29 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:29:29 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:29:29 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:29:29 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:29:29 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:29:29 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:29:29 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:29:29 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:29:29 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:29:29 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:29:29 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:29:29 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:29:29 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:29:29 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:29:29 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:29:29 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:29:29 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:29:29 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:29:29 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:29:29 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:29:29 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:29:29 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:29:29 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:29:29 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:29:29 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:29:29 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:29:29 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:29:29 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:29:29 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:29:29 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:29:29 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:29:29 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:29:29 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:29:29 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:29:29 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:29:29 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:29:29 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:29:29 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:29:29 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:29:29 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:29:29 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:29:29 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:29:29 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:29:29 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:29:29 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:29:29 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:29:29 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:29:29 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:29:29 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:29:29 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:29:29 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:29:29 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:29:29 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:29:29 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:29:29 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:29:29 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:29:29 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:29:29 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:29:29 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:34:49 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:34:50 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:34:50 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:34:50 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:34:50 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:34:50 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:34:50 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:34:50 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:34:50 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:34:50 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:34:50 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:34:50 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:34:50 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 236
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Undefined array key "p" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 237
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 06:44:50 UTC] PHP Warning:  Trying to access array offset on false in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 08:56:26 Europe/Berlin] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 299
+[05-Sep-2024 08:56:26 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type bool in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 300
+[05-Sep-2024 08:56:26 Europe/Berlin] PHP Warning:  Undefined array key "message" in E:\Kraken\surricate-application_gestion_stock\src\assets\snippets\blank\modal.php on line 2
+[05-Sep-2024 08:56:59 Europe/Berlin] PHP Warning:  Undefined array key "message" in E:\Kraken\surricate-application_gestion_stock\src\assets\snippets\blank\modal.php on line 2
+[05-Sep-2024 09:01:25 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "}" in E:\Kraken\surricate-application_gestion_stock\src\routes\Auth.php on line 24
+[05-Sep-2024 09:01:40 Europe/Berlin] PHP Warning:  Undefined variable $password in E:\Kraken\surricate-application_gestion_stock\src\models\Utilisateur.php on line 142
+[05-Sep-2024 09:01:40 Europe/Berlin] PHP Warning:  Undefined array key "message" in E:\Kraken\surricate-application_gestion_stock\src\assets\snippets\blank\modal.php on line 2
+[05-Sep-2024 09:01:40 Europe/Berlin] PHP Warning:  Undefined array key "message" in E:\Kraken\surricate-application_gestion_stock\src\views\pages\login.php on line 18
+[05-Sep-2024 09:01:40 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in E:\Kraken\surricate-application_gestion_stock\src\views\pages\login.php on line 18
+[05-Sep-2024 09:01:40 Europe/Berlin] PHP Warning:  PDOStatement::execute(): SQLSTATE[42000]: Syntax error or access violation: 1305 PROCEDURE surricate.get_centre does not exist in E:\Kraken\surricate-application_gestion_stock\src\app\Model.php on line 161
+[05-Sep-2024 09:01:40 Europe/Berlin] PHP Warning:  Undefined property: stdClass::$id in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 279
+[05-Sep-2024 09:01:40 Europe/Berlin] PHP Warning:  Undefined property: stdClass::$id in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 279
+[05-Sep-2024 09:01:40 Europe/Berlin] PHP Warning:  Undefined array key "message" in E:\Kraken\surricate-application_gestion_stock\src\assets\snippets\blank\modal.php on line 2
+[05-Sep-2024 09:01:42 Europe/Berlin] PHP Warning:  PDOStatement::execute(): SQLSTATE[42000]: Syntax error or access violation: 1305 PROCEDURE surricate.get_centre does not exist in E:\Kraken\surricate-application_gestion_stock\src\app\Model.php on line 161
+[05-Sep-2024 09:01:42 Europe/Berlin] PHP Warning:  Undefined array key "message" in E:\Kraken\surricate-application_gestion_stock\src\assets\snippets\blank\modal.php on line 2
+[05-Sep-2024 09:01:42 Europe/Berlin] PHP Warning:  PDOStatement::execute(): SQLSTATE[42000]: Syntax error or access violation: 1305 PROCEDURE surricate.get_centre does not exist in E:\Kraken\surricate-application_gestion_stock\src\app\Model.php on line 161
+[05-Sep-2024 09:01:42 Europe/Berlin] PHP Warning:  Undefined property: stdClass::$id in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 279
+[05-Sep-2024 09:01:42 Europe/Berlin] PHP Warning:  Undefined property: stdClass::$id in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 279
+[05-Sep-2024 09:01:43 Europe/Berlin] PHP Warning:  Undefined array key "message" in E:\Kraken\surricate-application_gestion_stock\src\assets\snippets\blank\modal.php on line 2
+[05-Sep-2024 09:01:44 Europe/Berlin] PHP Warning:  PDOStatement::execute(): SQLSTATE[42000]: Syntax error or access violation: 1305 PROCEDURE surricate.get_centre does not exist in E:\Kraken\surricate-application_gestion_stock\src\app\Model.php on line 161
+[05-Sep-2024 09:01:44 Europe/Berlin] PHP Warning:  Undefined array key "message" in E:\Kraken\surricate-application_gestion_stock\src\assets\snippets\blank\modal.php on line 2
+[05-Sep-2024 09:01:44 Europe/Berlin] PHP Warning:  PDOStatement::execute(): SQLSTATE[42000]: Syntax error or access violation: 1305 PROCEDURE surricate.get_centre does not exist in E:\Kraken\surricate-application_gestion_stock\src\app\Model.php on line 161
+[05-Sep-2024 09:01:44 Europe/Berlin] PHP Warning:  Undefined property: stdClass::$id in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 279
+[05-Sep-2024 09:01:44 Europe/Berlin] PHP Warning:  Undefined property: stdClass::$id in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 279
+[05-Sep-2024 09:01:44 Europe/Berlin] PHP Warning:  Undefined array key "message" in E:\Kraken\surricate-application_gestion_stock\src\assets\snippets\blank\modal.php on line 2
+[05-Sep-2024 09:05:14 Europe/Berlin] PHP Warning:  Undefined array key "message" in E:\Kraken\surricate-application_gestion_stock\src\assets\snippets\blank\modal.php on line 2
+[05-Sep-2024 09:05:16 Europe/Berlin] PHP Warning:  PDOStatement::execute(): SQLSTATE[42000]: Syntax error or access violation: 1305 PROCEDURE surricate.get_centre does not exist in E:\Kraken\surricate-application_gestion_stock\src\app\Model.php on line 161
+[05-Sep-2024 09:05:16 Europe/Berlin] PHP Warning:  Undefined array key "message" in E:\Kraken\surricate-application_gestion_stock\src\assets\snippets\blank\modal.php on line 2
+[05-Sep-2024 09:05:16 Europe/Berlin] PHP Warning:  PDOStatement::execute(): SQLSTATE[42000]: Syntax error or access violation: 1305 PROCEDURE surricate.get_centre does not exist in E:\Kraken\surricate-application_gestion_stock\src\app\Model.php on line 161
+[05-Sep-2024 09:05:16 Europe/Berlin] PHP Warning:  Undefined property: stdClass::$id in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 280
+[05-Sep-2024 09:05:16 Europe/Berlin] PHP Warning:  Undefined property: stdClass::$id in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 280
+[05-Sep-2024 09:05:16 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot access private constant Surricate\Auth::bypass in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php:291
 Stack trace:
-#0 [internal function]: Surricate\API->articles('9855765633babcf...')
-#1 D:\AFPAR\Surricate\src\app\Router.php(33): call_user_func_array(Array, Array)
-#2 D:\AFPAR\Surricate\src\app\Router.php(8): Surricate\Router::setRedirection()
-#3 D:\AFPAR\Surricate\autoload\Autoload.php(29): Surricate\Router::init()
-#4 D:\AFPAR\Surricate\index.php(52): Surricate\Autoload::init()
-#5 {main}
-  thrown in D:\AFPAR\Surricate\src\routes\Api.php on line 18
-[15-Mar-2023 04:13:49 UTC] PHP Warning:  Undefined variable $data in D:\AFPAR\Surricate\src\routes\Api.php on line 25
-[15-Mar-2023 04:14:20 UTC] PHP Warning:  Undefined variable $data in D:\AFPAR\Surricate\src\routes\Api.php on line 25
-[15-Mar-2023 04:14:31 UTC] PHP Warning:  Undefined variable $data in D:\AFPAR\Surricate\src\routes\Api.php on line 25
-[15-Mar-2023 04:15:29 UTC] PHP Warning:  Undefined variable $data in D:\AFPAR\Surricate\src\routes\Api.php on line 25
-[15-Mar-2023 04:23:26 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "Surricate\PAGE" in D:\AFPAR\Surricate\src\routes\Api.php:17
+#0 E:\Kraken\surricate-application_gestion_stock\src\routes\Admin.php(21): Surricate\Security->checkUserContenuPermission('INDEX', Array)
+#1 [internal function]: Surricate\Admin->index('b34a8d728504546...')
+#2 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(33): call_user_func_array(Array, Array)
+#3 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#4 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#5 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#6 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 291
+[05-Sep-2024 09:06:32 Europe/Berlin] PHP Warning:  Undefined property: stdClass::$id in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 280
+[05-Sep-2024 09:06:32 Europe/Berlin] PHP Warning:  Undefined property: stdClass::$id in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 280
+[05-Sep-2024 09:06:32 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot access private constant Surricate\Auth::bypass in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php:291
 Stack trace:
-#0 [internal function]: Surricate\API->articles('')
-#1 D:\AFPAR\Surricate\src\app\Router.php(33): call_user_func_array(Array, Array)
-#2 D:\AFPAR\Surricate\src\app\Router.php(8): Surricate\Router::setRedirection()
-#3 D:\AFPAR\Surricate\autoload\Autoload.php(29): Surricate\Router::init()
-#4 D:\AFPAR\Surricate\index.php(52): Surricate\Autoload::init()
-#5 {main}
-  thrown in D:\AFPAR\Surricate\src\routes\Api.php on line 17
-[15-Mar-2023 04:24:38 UTC] PHP Warning:  Undefined array key "message" in D:\AFPAR\Surricate\src\assets\snippets\blank\modal.php on line 2
-[15-Mar-2023 04:24:38 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in D:\AFPAR\Surricate\src\assets\snippets\blank\modal.php on line 2
-[15-Mar-2023 04:24:41 UTC] PHP Warning:  Undefined array key "message" in D:\AFPAR\Surricate\src\assets\snippets\blank\modal.php on line 2
-[15-Mar-2023 04:24:41 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in D:\AFPAR\Surricate\src\assets\snippets\blank\modal.php on line 2
-[15-Mar-2023 04:24:41 UTC] PHP Warning:  Undefined variable $article in D:\AFPAR\Surricate\src\views\admin\espaceperso.php on line 155
-[15-Mar-2023 04:24:41 UTC] PHP Warning:  Trying to access array offset on value of type null in D:\AFPAR\Surricate\src\views\admin\espaceperso.php on line 155
-[15-Mar-2023 04:24:41 UTC] PHP Warning:  Undefined variable $article in D:\AFPAR\Surricate\src\views\admin\espaceperso.php on line 155
-[15-Mar-2023 04:24:41 UTC] PHP Warning:  Trying to access array offset on value of type null in D:\AFPAR\Surricate\src\views\admin\espaceperso.php on line 155
+#0 E:\Kraken\surricate-application_gestion_stock\src\routes\Admin.php(21): Surricate\Security->checkUserContenuPermission('INDEX', Array)
+#1 [internal function]: Surricate\Admin->index('b34a8d728504546...')
+#2 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(33): call_user_func_array(Array, Array)
+#3 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#4 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#5 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#6 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 291
+[05-Sep-2024 09:08:32 Europe/Berlin] PHP Warning:  Undefined property: stdClass::$id in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 280
+[05-Sep-2024 09:08:32 Europe/Berlin] PHP Warning:  Undefined property: stdClass::$id in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 280
+[05-Sep-2024 09:08:32 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot access private constant Surricate\Auth::bypass in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php:291
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\routes\Admin.php(21): Surricate\Security->checkUserContenuPermission('INDEX', Array)
+#1 [internal function]: Surricate\Admin->index('b34a8d728504546...')
+#2 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(33): call_user_func_array(Array, Array)
+#3 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#4 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#5 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#6 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 291
+[05-Sep-2024 09:08:34 Europe/Berlin] PHP Warning:  Undefined property: stdClass::$id in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 280
+[05-Sep-2024 09:08:34 Europe/Berlin] PHP Warning:  Undefined property: stdClass::$id in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 280
+[05-Sep-2024 09:08:34 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot access private constant Surricate\Auth::bypass in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php:291
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\routes\Admin.php(21): Surricate\Security->checkUserContenuPermission('INDEX', Array)
+#1 [internal function]: Surricate\Admin->index('b34a8d728504546...')
+#2 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(33): call_user_func_array(Array, Array)
+#3 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#4 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#5 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#6 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 291
+[05-Sep-2024 09:09:16 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot access private constant Surricate\Auth::bypass in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php:263
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\routes\Admin.php(21): Surricate\Security->checkUserContenuPermission('INDEX', Array)
+#1 [internal function]: Surricate\Admin->index('b34a8d728504546...')
+#2 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(33): call_user_func_array(Array, Array)
+#3 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#4 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#5 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#6 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 263
+[05-Sep-2024 09:09:57 Europe/Berlin] PHP Warning:  Undefined array key "HTTP_REFERER" in E:\Kraken\surricate-application_gestion_stock\src\assets\snippets\admin\file.php on line 16
+[05-Sep-2024 09:09:57 Europe/Berlin] PHP Warning:  Undefined array key "HTTP_REFERER" in E:\Kraken\surricate-application_gestion_stock\src\assets\snippets\admin\mail.php on line 46
+[05-Sep-2024 09:11:50 Europe/Berlin] PHP Warning:  Undefined array key "HTTP_REFERER" in E:\Kraken\surricate-application_gestion_stock\src\assets\snippets\admin\file.php on line 16
+[05-Sep-2024 09:11:50 Europe/Berlin] PHP Warning:  Undefined array key "HTTP_REFERER" in E:\Kraken\surricate-application_gestion_stock\src\assets\snippets\admin\mail.php on line 46
+[05-Sep-2024 09:13:14 Europe/Berlin] PHP Warning:  Undefined array key "message" in E:\Kraken\surricate-application_gestion_stock\src\assets\snippets\blank\modal.php on line 2
+[05-Sep-2024 09:13:18 Europe/Berlin] PHP Warning:  Undefined array key "message" in E:\Kraken\surricate-application_gestion_stock\src\assets\snippets\blank\modal.php on line 2
+[05-Sep-2024 09:13:27 Europe/Berlin] PHP Warning:  Undefined array key "HTTP_REFERER" in E:\Kraken\surricate-application_gestion_stock\src\assets\snippets\admin\file.php on line 16
+[05-Sep-2024 09:13:27 Europe/Berlin] PHP Warning:  Undefined array key "HTTP_REFERER" in E:\Kraken\surricate-application_gestion_stock\src\assets\snippets\admin\mail.php on line 46
+[05-Sep-2024 09:13:46 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at E:\Kraken\surricate-application_gestion_stock\src\views\layouts\admin.php:16) in E:\Kraken\surricate-application_gestion_stock\src\app\Controller.php on line 137
+[05-Sep-2024 09:13:59 Europe/Berlin] PHP Warning:  Undefined array key "HTTP_REFERER" in E:\Kraken\surricate-application_gestion_stock\src\assets\snippets\admin\file.php on line 16
+[05-Sep-2024 09:13:59 Europe/Berlin] PHP Warning:  Undefined array key "HTTP_REFERER" in E:\Kraken\surricate-application_gestion_stock\src\assets\snippets\admin\mail.php on line 46
+[05-Sep-2024 09:13:59 Europe/Berlin] PHP Warning:  Undefined array key "HTTP_REFERER" in E:\Kraken\surricate-application_gestion_stock\src\views\admin\editUser.php on line 73
+[05-Sep-2024 09:13:59 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at E:\Kraken\surricate-application_gestion_stock\src\views\layouts\admin.php:16) in E:\Kraken\surricate-application_gestion_stock\src\app\Controller.php on line 137
+[05-Sep-2024 09:17:20 Europe/Berlin] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 304
+[05-Sep-2024 09:17:20 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type bool in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 305
+[05-Sep-2024 09:17:20 Europe/Berlin] PHP Warning:  Undefined array key "message" in E:\Kraken\surricate-application_gestion_stock\src\assets\snippets\blank\modal.php on line 2
+[05-Sep-2024 09:17:34 Europe/Berlin] PHP Warning:  Undefined variable $password in E:\Kraken\surricate-application_gestion_stock\src\models\Utilisateur.php on line 142
+[05-Sep-2024 09:17:34 Europe/Berlin] PHP Warning:  Undefined array key "message" in E:\Kraken\surricate-application_gestion_stock\src\assets\snippets\blank\modal.php on line 2
+[05-Sep-2024 09:17:34 Europe/Berlin] PHP Warning:  Undefined array key "message" in E:\Kraken\surricate-application_gestion_stock\src\views\pages\login.php on line 18
+[05-Sep-2024 09:17:34 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in E:\Kraken\surricate-application_gestion_stock\src\views\pages\login.php on line 18
+[05-Sep-2024 09:19:54 Europe/Berlin] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 304
+[05-Sep-2024 09:19:54 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type bool in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 305
+[05-Sep-2024 09:19:55 Europe/Berlin] PHP Warning:  Undefined array key "message" in E:\Kraken\surricate-application_gestion_stock\src\assets\snippets\blank\modal.php on line 2
+[05-Sep-2024 09:20:02 Europe/Berlin] PHP Warning:  Undefined variable $password in E:\Kraken\surricate-application_gestion_stock\src\models\Utilisateur.php on line 142
+[05-Sep-2024 09:20:02 Europe/Berlin] PHP Warning:  Undefined array key "message" in E:\Kraken\surricate-application_gestion_stock\src\assets\snippets\blank\modal.php on line 2
+[05-Sep-2024 09:20:02 Europe/Berlin] PHP Warning:  Undefined array key "message" in E:\Kraken\surricate-application_gestion_stock\src\views\pages\login.php on line 18
+[05-Sep-2024 09:20:02 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in E:\Kraken\surricate-application_gestion_stock\src\views\pages\login.php on line 18
+[05-Sep-2024 09:25:56 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:25:56 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:25:56 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:25:56 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:25:56 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:25:56 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:25:57 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:25:57 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:25:57 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:25:57 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:25:57 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:25:57 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:25:57 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:25:57 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:25:57 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:25:57 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:25:58 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:25:58 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:25:58 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:25:59 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:25:59 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:25:59 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:00 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:00 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:00 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:00 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:00 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:00 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:00 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:00 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:00 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:00 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:00 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:01 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:01 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:01 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:01 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:01 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:01 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:06 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:06 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:07 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:07 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:07 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:07 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:07 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:07 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:07 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:07 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:07 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:07 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:07 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:08 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:08 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:08 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:08 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:08 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:08 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:08 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:09 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:09 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:09 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:10 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:10 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:10 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:10 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:10 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:10 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:10 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:10 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:10 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:11 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:11 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:11 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:11 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:11 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:11 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:11 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:11 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:16 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:16 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:16 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:17 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:17 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:17 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:17 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:17 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:17 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:17 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:17 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:17 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:17 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:17 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:18 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:18 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:18 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:18 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:18 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:18 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:48 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "\Surricate\Src" not found in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php:30
+Stack trace:
+#0 E:\Kraken\surricate-application_gestion_stock\src\app\Router.php(8): Surricate\Router::setRedirection()
+#1 E:\Kraken\surricate-application_gestion_stock\autoload\Autoload.php(29): Surricate\Router::init()
+#2 E:\Kraken\surricate-application_gestion_stock\index.php(52): Surricate\Autoload::init()
+#3 {main}
+  thrown in E:\Kraken\surricate-application_gestion_stock\src\app\Router.php on line 30
+[05-Sep-2024 09:26:48 Europe/Berlin] PHP Warning:  Undefined array key "message" in E:\Kraken\surricate-application_gestion_stock\src\assets\snippets\blank\modal.php on line 2
+[05-Sep-2024 09:27:39 Europe/Berlin] PHP Warning:  Undefined array key "message" in E:\Kraken\surricate-application_gestion_stock\src\assets\snippets\blank\modal.php on line 2
+[05-Sep-2024 09:27:42 Europe/Berlin] PHP Warning:  Undefined array key "message" in E:\Kraken\surricate-application_gestion_stock\src\assets\snippets\blank\modal.php on line 2
+[05-Sep-2024 09:27:52 Europe/Berlin] PHP Warning:  Undefined array key "id" in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 304
+[05-Sep-2024 09:27:52 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type bool in E:\Kraken\surricate-application_gestion_stock\src\configs\Security.php on line 305
+[05-Sep-2024 09:27:52 Europe/Berlin] PHP Warning:  Undefined array key "message" in E:\Kraken\surricate-application_gestion_stock\src\assets\snippets\blank\modal.php on line 2
+[05-Sep-2024 09:27:58 Europe/Berlin] PHP Warning:  Undefined variable $password in E:\Kraken\surricate-application_gestion_stock\src\models\Utilisateur.php on line 142
+[05-Sep-2024 09:27:58 Europe/Berlin] PHP Warning:  Undefined array key "message" in E:\Kraken\surricate-application_gestion_stock\src\assets\snippets\blank\modal.php on line 2
+[05-Sep-2024 09:27:58 Europe/Berlin] PHP Warning:  Undefined array key "message" in E:\Kraken\surricate-application_gestion_stock\src\views\pages\login.php on line 18
+[05-Sep-2024 09:27:58 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in E:\Kraken\surricate-application_gestion_stock\src\views\pages\login.php on line 18
